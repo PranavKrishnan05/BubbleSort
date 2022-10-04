@@ -1,0 +1,6 @@
+version: "Swift version 5.6.1 (swift-5.6.1-RELEASE)"
+options: "bb4a94a12ff7ec22b2e1f1ade65daf121ef7715d8d60c7fdd4f1dc513cb662d4"
+build_start_time: [1664816988, 244801998]
+build_end_time: [1664816989, 493322849]
+inputs:
+  "/home/pranav-krishnan/Projects/BubbleSort/main.swift": [1664816977, 911302566]
